@@ -1,4 +1,4 @@
-# README
+# Code Specification for Project
 
 ## 1. 爬虫数据说明 (见data.xlsx)
 
